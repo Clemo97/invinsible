@@ -1,0 +1,12 @@
+nav {
+    box-shadow: 0 0 20px 0 rgb(52, 78, 65) !important;
+    font-family: 'display';
+    font-style: italic;
+    margin-top: 2px;
+    background-color:#6d6875;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    font-weight: bold !important;
+}
